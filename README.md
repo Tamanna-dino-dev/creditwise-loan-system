@@ -42,3 +42,5 @@ Rather than relying on a single algorithm, this project compares KNN, Logistic R
 
 1. Clone this repo
 2. Install dependencies:
+   pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+3. Open `credit_wise.ipynb` in Jupyter and run all cells
